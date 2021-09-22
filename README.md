@@ -15,7 +15,7 @@ A aplicação também conta com o cadastro de descrição, data e valor da despe
 
 Desenvolvida em HTML, JavaScript e Bootstrap.
 
-#Para vizualiza-la
+# Para vizualiza-la
 
 1. Clonar o projeto
 2. Abrir o arquivo `index.html` com o navegador de preferência 
